@@ -1,10 +1,6 @@
-import './App.css';
-
 function App() {
   return (
-    <div className="App">
-      <h1>Simon in React!</h1>
-    </div>
+    <div className="text-red-500">Simon in React!</div>
   );
 }
 
