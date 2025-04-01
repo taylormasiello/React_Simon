@@ -1,7 +1,7 @@
+import SimonGame from "./components/SimonGame";
+
 function App() {
-  return (
-    <div className="text-red-500">Simon in React!</div>
-  );
+  return <SimonGame/>;
 }
 
 export default App;
