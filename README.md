@@ -1,2 +1,2 @@
-# Simon made with React /
+# Simon made with React
 ## (and tailwindcss)
